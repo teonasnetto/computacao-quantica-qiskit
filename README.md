@@ -1,1 +1,5 @@
 # computacao-quantica-qiskit
+
+Neste artigo, apresentamos a ferramenta Quantum Information Software Developer Kit - Qiskit, para o ensino de computação quântica para estudantes de graduação, com conhecimento básico dos postulados da mecânica quântica. Nos concentramos na apresentação da construção dos programas em qualquer laptop ou desktop comum e a sua execução em processadores quânticos reais através do acesso remoto aos hardwares disponibilizados na plataforma IBM Quantum Experience. Os códigos são disponibilizados ao longo do texto para que os leitores, sejam estudantes, mesmo com pouca experiência em computação científica, possam preproduzí-los e adotar os métodos discutidos neste artigo para abordar seus próprios projetos de computação quântica. Os resultados apresentados estão de acordo com as previsões teóricas e mostram a eficácia do pacote Qiskit como uma ferramenta de trabalho em sala de aula, robusta para a introdução de conceitos aplicados de computação e informação quântica.
+
+Palavras-Chave: Python, IBM, Qiskit, Quantum Experience.
